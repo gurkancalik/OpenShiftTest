@@ -1,0 +1,2 @@
+# OpenShiftTest
+OpenShiftTestKodu
